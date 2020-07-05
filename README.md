@@ -6,27 +6,27 @@
 
 
 # 왜 Elm을 배워야하지?
-[ReactiveConf 2019 - Richard Feldman: Predicting the Future of the Web](https://www.youtube.com/watch?v=okrB3aJtUaw)
-[From Rails to Elm and Haskell - Richard Feldman](https://www.youtube.com/watch?v=5CYeZ2kEiOI)
+1. [ReactiveConf 2019 - Richard Feldman: Predicting the Future of the Web](https://www.youtube.com/watch?v=okrB3aJtUaw)
+2. [From Rails to Elm and Haskell - Richard Feldman](https://www.youtube.com/watch?v=5CYeZ2kEiOI)
 
 # 어떻게 코드를 어떻게 실행하지?
-[온라인에서 코드 실행해보기1 Elm공식](https://elm-lang.org/try)
-[온라인에서 코드 실행해보기2 Ellie](https://ellie-app.com)
-[Elm IntelliJ 플러그인](https://plugins.jetbrains.com/plugin/10268-elm)
+1. [온라인에서 코드 실행해보기1 Elm공식](https://elm-lang.org/try)
+2. [온라인에서 코드 실행해보기2 Ellie](https://ellie-app.com)
+3. [Elm IntelliJ 플러그인](https://plugins.jetbrains.com/plugin/10268-elm)
 
 # 배우기 시작하기!
-[Elm 0.19 소개 슬라이드](https://docs.google.com/presentation/d/1LM_W2BRs_ItT-SPDe70C10cbwhGNHGQlJ1fVnAdnRIY)
-[Elm 공식 튜토리얼](https://guide.elm-lang.org)
-[공식 튜토리얼보다 더 튜토리얼 같은](https://elmprogramming.com)
+1. [Elm 0.19 소개 슬라이드](https://docs.google.com/presentation/d/1LM_W2BRs_ItT-SPDe70C10cbwhGNHGQlJ1fVnAdnRIY)
+2. [Elm 공식 튜토리얼](https://guide.elm-lang.org)
+3. [공식 튜토리얼보다 더 튜토리얼 같은](https://elmprogramming.com)
 
 # 함수형 언어다운 코드를 작성해보자!
-[99문제 Elm으로 풀기](https://johncrane.gitbooks.io/ninety-nine-elm-problems/)
-[TodoMVC](https://github.com/evancz/elm-todomvc)
-[RealWorld example app](https://github.com/rtfeldman/elm-spa-example)
+1. [99문제 Elm으로 풀기](https://johncrane.gitbooks.io/ninety-nine-elm-problems/)
+2. [TodoMVC](https://github.com/evancz/elm-todomvc)
+3. [RealWorld example app](https://github.com/rtfeldman/elm-spa-example)
 
 # 강연을 들어보자!
-[Make Data Structures](https://www.youtube.com/watch?v=x1FU3e0sT1I)
-[The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE)
-[Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs)
-[Making Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
-[Immutable Relational Data](https://www.youtube.com/watch?v=28OdemxhfbU)
+1. [Make Data Structures](https://www.youtube.com/watch?v=x1FU3e0sT1I)
+2. [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE)
+3. [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs)
+4. [Making Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+5. [Immutable Relational Data](https://www.youtube.com/watch?v=28OdemxhfbU)
